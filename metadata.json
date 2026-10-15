@@ -1,0 +1,6 @@
+{
+  "name": "蛇蛇養成花園 - Gacha Snake Ranch",
+  "description": "可愛的蛇蛇養成與扭蛋大冒險遊戲",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
